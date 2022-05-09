@@ -2,4 +2,7 @@
 *.tfstate
 *.tfstate.backup
 *.hcl
+aws_key
+aws_key.pub
+
 
